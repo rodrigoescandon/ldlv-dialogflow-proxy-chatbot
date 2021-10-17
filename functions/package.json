@@ -13,6 +13,12 @@
   },
   "main": "index.js",
   "dependencies": {
+    "@sanity/client": "^2.19.0",
+    "actions-on-google": "^3.0.0",
+    "cors": "^2.8.5",
+    "dialogflow": "^1.2.0",
+    "dialogflow-fulfillment": "^0.6.1",
+    "dotenv": "^10.0.0",
     "firebase-admin": "^9.8.0",
     "firebase-functions": "^3.14.1"
   },
